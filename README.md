@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shuvo0725
+- 👋 Hi, I’m @Shuvo
 - 👀 I’m interested in programming,Gaming,Hacking and create new algorithm.
 - 🌱 I’m currently learning B.Sc. of CSE.
 - 💞️ I’m looking to collaborate on .
