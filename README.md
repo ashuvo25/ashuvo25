@@ -6,24 +6,65 @@
 -  - codeforces -userHandel: shuvo_r
 
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ashuvo25) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shuvo_xyz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/asaduzzaman-shuvo) 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Your Name | GitHub Profile</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=plastic&logo=github&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=plastic&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ashuvo25&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ashuvo25&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ashuvo25&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+  <img src="animated_banner.gif" alt="Your Project Name">
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ashuvo25&limit=5&theme=apprentice&combine_all_yearly_contributions=true)
+  <h1>‍ Competitive Programmer |  Web Developer |  Gamer |  Undergraduate CS Student</h1>
+  <h2>‍ Welcome to my GitHub profile!</h2>
+  <p>I'm passionate about competitive programming, web development, and exploring the world of software development. Here you'll find a mix of my projects, code snippets, and resources.</p>
 
----
-[![](https://visitcount.itsvg.in/api?id=ashuvo25&icon=0&color=0)](https://visitcount.itsvg.in)
+  <h2> About Me</h2>
+  <ul>
+    <li> I'm currently an undergraduate student majoring in Computer Science.</li>
+    <li> As a competitive programmer, I love solving algorithmic challenges and participating in coding contests.</li>
+    <li> Web development is my playground, and I enjoy creating interactive and visually appealing websites.</li>
+    <li> When not coding, you'll likely find me immersed in gaming adventures.</li>
+  </ul>
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.buymeacoffee.com/ashuvo25) 
+  <h2>️ Technologies & Tools</h2>
+  <pre>
+    {
+      "languages": ["C++", "JavaScript", "HTML", "CSS"],
+      "frameworks": ["React", "Node.js"],
+      "tools": ["VS Code", "Git", "GitHub"],
+      "interests": ["Algorithms", "Data Structures", "Web Development"]
+    }
+  </pre>
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+  <h2> Connect with Me</h2>
+  <ul>
+    <li><a href="https://www.linkedin.com/in/your-username/">LinkedIn</a></li>
+    <li><a href="https://twitter.com/your-username/">Twitter</a></li>
+    <li><a href="your-portfolio-url">Portfolio</a></li>
+  </ul>
+
+  <h2> Fun Fact</h2>
+  <p>Did you know? I once participated in a coding contest while sipping coffee at midnight! ☕</p>
+
+  <h2> Resources</h2>
+  <h3>Competitive Programming</h3>
+  <ul>
+    <li><a href="https://leetcode.com/">LeetCode</a></li>
+    <li><a href="https://codeforces.com/">Codeforces</a></li>
+    <li><a href="https://www.hackerrank.com/">HackerRank</a></li>
+  </ul>
+  <h3>Web Development</h3>
+  <ul>
+    <li><a href="https://developer.mozilla.org/en-US/docs/Web/">MDN Web Docs</a></li>
+    <li><a href="https://www.freecodecamp.org/">freeCodeCamp</a></li>
+    <li><a href="https://css-tricks.com/">CSS-Tricks</a></li>
+  </ul>
+
+  <script src="script.js"></script>
+</body>
+</html>
+
