@@ -22,7 +22,7 @@
     <li><a href="https://codeforces.com/shuvo_r">Codeforces</a></li>
     <li><a href="https://www.codechef.com/users/bedrock_25">HackerRank</a></li>
   </ul>
-  <h3>Web Development</h3>
+  <h3>Web Development learning From</h3>
   <ul>
     <li><a href="https://developer.mozilla.org/en-US/docs/Web/">MDN Web Docs</a></li>
     <li><a href="https://www.freecodecamp.org/">freeCodeCamp</a></li>
