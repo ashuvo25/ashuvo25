@@ -18,9 +18,9 @@
  <h2>📚 Resources</h2>
   <h3>Competitive Programming</h3>
   <ul>
-    <li><a href="https://leetcode.com/shuvo_25">LeetCode</a></li>
+    <li><a href="https://leetcode.com/shuvo_r/">LeetCode</a></li>
     <li><a href="https://codeforces.com/shuvo_r">Codeforces</a></li>
-    <li><a href="https://www.codechef.com/users/bedrock_25">HackerRank</a></li>
+  
   </ul>
   <h3>Web Development learning From</h3>
   <ul>
