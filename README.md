@@ -4,7 +4,7 @@
 - 🌱 I'm currently an undergraduate student majoring in Computer Science.
 - 💻 As a competitive programmer, I love solving algorithmic challenges and participating in coding contests.
 - 🌐 Web development is my playground, and I enjoy creating interactive and visually appealing websites.
-- 🤖 Right I am enjoining AI/ML Development.  
+- 🤖 Right now I am enjoining AI/ML Development.  
 - 🎮 When not coding, you'll likely find me immersed in gaming adventures.
   </ul>
 
