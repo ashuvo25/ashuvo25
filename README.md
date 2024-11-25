@@ -46,6 +46,15 @@
 
 ---
 
+### 🏆 **Competitive Programming Profiles**
+- **Codeforces**:  
+  [![Codeforces](https://img.shields.io/badge/Codeforces-%234566B5.svg?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/shuvo_r)  
+
+- **LeetCode**:  
+  [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/shuvo_r/)  
+
+---
+
 ### 📊 **My GitHub Stats**
 
 <div align="center">
@@ -57,29 +66,4 @@
 
 ### 🌟 **Featured Projects**
 
-- 🔍 [**AI-Based Chatbot**](https://github.com/ashuvo25/ai-chatbot): A conversational assistant built using Python and NLP.  
-- 📊 [**Portfolio Dashboard**](https://github.com/ashuvo25/portfolio-dashboard): A dynamic portfolio web app showcasing your projects and skills.  
-
----
-
-### ✨ **Unique Sections**  
-
-#### 🎯 **Personalized Quote**  
-_"Code is not just a skill—it's an adventure to craft something extraordinary."_  
-
-#### 🌟 **Fun Fact**  
-If I weren’t coding, I’d probably be a professional gamer or a storytelling wizard!  
-
-#### 🧑‍💻 **Current Focus Areas**  
-- **AI/ML Development**: Specializing in **deep learning** and **LLM fine-tuning**.  
-- **Competitive Programming**: Polishing my problem-solving and algorithmic thinking.  
-- **Frontend Development**: Building sleek, user-friendly web apps with a keen eye for design.  
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3oKIPCSX4UHmuSK36M/giphy.gif" width="300" alt="Creative Gif">
-</p>
-
-#### Thank you for visiting! Have a great day! 😊  
-</div>
+- 🔍 [**AI-Based Chatbot**](https://github.com/ashuvo25/ai-chat
