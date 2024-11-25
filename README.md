@@ -40,7 +40,7 @@
 
 
 <div>
-  Language  :<h1> C++, Python </h1>,Java , PHP,
+  <h5>Language  : C++, Python </h5>,Java , PHP,
 </div>
 
 
