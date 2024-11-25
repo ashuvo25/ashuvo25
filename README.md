@@ -3,9 +3,10 @@
 
 <h5>_"Coding is my superpower, and each project is a story waiting to be told."_ ✨  
 
-Enjoy exploring my repositories! Feel free to connect and collaborate. 😊  </h5>
+Enjoy exploring my repositories! Feel free to connect and collaborate. 😊  <br></h5>
 
 </div>
+
 - 👋 Hi, I’m @ashuvo25
 - 🌟 Exploring the World of AI, ML, and LLMs 
   <ul>
@@ -56,8 +57,6 @@ _"Code is not just a skill—it's an adventure to craft something extraordinary.
 🌟 Fun Fact  
 If I weren’t coding, I’d probably be a professional gamer or a storytelling wizard! 
 
-<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch">
-  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
-</div>
+<p align="center">
+  <img src="https://media.giphy.com/media/3oKIPCSX4UHmuSK36M/giphy.gif" width="300" alt="Creative Gif">
+</p>
