@@ -1,4 +1,11 @@
 - <h2>‍ Welcome to my GitHub profile!</h2>
+<div align="center">
+
+<h5>_"Coding is my superpower, and each project is a story waiting to be told."_ ✨  
+
+Enjoy exploring my repositories! Feel free to connect and collaborate. 😊  </h5>
+
+</div>
 - 👋 Hi, I’m @ashuvo25
 - 🌟 Exploring the World of AI, ML, and LLMs 
   <ul>
@@ -32,7 +39,7 @@
 🌟Current Focus Areas  
 - AI/ML Development: Enhancing skills in deep learning and exploring LLM applications.  
 - Competitive Programming: Strengthening algorithmic problem-solving expertise.  
-- Frontend Development: Building clean, responsive, and dynamic web applications.  
+
 
 ---
 # 💻 Tech Stack:
@@ -40,14 +47,17 @@
 
 
 <div>
-  <h5>Language  : C++, Python </h5>,Java , PHP,
+  <h5>Language  : C++, Python ,Java , PHP(basic) ,JS(basic)</h5>
 </div>
 
+🎯 Personalized Quote
+_"Code is not just a skill—it's an adventure to craft something extraordinary."_  
 
-<div align="center">
+🌟 Fun Fact  
+If I weren’t coding, I’d probably be a professional gamer or a storytelling wizard! 
 
-_"Coding is my superpower, and each project is a story waiting to be told."_ ✨  
-
-Enjoy exploring my repositories! Feel free to connect and collaborate. 😊  
-
+<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch">
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
 </div>
