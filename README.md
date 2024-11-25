@@ -21,7 +21,7 @@
   <h3>Competitive Programming</h3>
   <ul>
     <li><a href="https://leetcode.com/shuvo_r/">LeetCode</a></li>
-    <li><a href="[https://codeforces.com/shuvo_r](https://codeforces.com/profile/shuvo_r)">Codeforces</a></li>
+    <li><a href="https://codeforces.com/profile/shuvo_r">Codeforces</a></li>
   
   </ul>
   <p align="center">
