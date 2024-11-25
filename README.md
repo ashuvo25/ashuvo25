@@ -30,16 +30,16 @@ Enjoy exploring my repositories! Feel free to connect and collaborate. 😊  <br
   <ul>
     <li><a href="https://leetcode.com/shuvo_r/">LeetCode</a></li>
     <li><a href="https://codeforces.com/profile/shuvo_r">Codeforces</a></li>
-  
   </ul>
+  <h4>🌟Current Focus Areas</h4>  
+- AI/ML Development: Enhancing skills in deep learning and exploring LLM applications.  
+- Competitive Programming: Strengthening algorithmic problem-solving expertise.  
+
   <p align="center">
   <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="200" alt="Coding Gif">
 </p>
 ---
 
-🌟Current Focus Areas  
-- AI/ML Development: Enhancing skills in deep learning and exploring LLM applications.  
-- Competitive Programming: Strengthening algorithmic problem-solving expertise.  
 
 
 ---
@@ -51,12 +51,14 @@ Enjoy exploring my repositories! Feel free to connect and collaborate. 😊  <br
   <h5>Language  : C++, Python ,Java , PHP(basic) ,JS(basic)</h5>
 </div>
 
-🎯 Personalized Quote
+🎯 Personalized Quote :
 _"Code is not just a skill—it's an adventure to craft something extraordinary."_  
 
-🌟 Fun Fact  
+🌟 Fun Fact  :
 If I weren’t coding, I’d probably be a professional gamer or a storytelling wizard! 
 
 <p align="center">
   <img src="https://media.giphy.com/media/3oKIPCSX4UHmuSK36M/giphy.gif" width="300" alt="Creative Gif">
 </p>
+
+Thank you for visiting! Have a great day! 😊 
