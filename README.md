@@ -1,4 +1,4 @@
-<div align="center">
+<div >
 
 # 👋 Hi, I'm @ashuvo25  
 
@@ -10,50 +10,66 @@
 </p>
 
 ---
+<div>
 
-### 🚀 **About Me**  
-🌱 I’m an undergraduate student majoring in **Computer Science**.  
-🤖 Fascinated by the realms of **Machine Learning (ML)** and **Large Language Models (LLMs)**.  
-💻 Thrilled by the challenge of solving **algorithmic problems** and competing in **coding contests**.  
-🌐 Passionate about **Web Development**, crafting **interactive** and **responsive websites**.  
-🎮 When not coding, I immerse myself in **epic gaming adventures** or brainstorm unique project ideas!  
+### 📫 **How to Reach Me**
 
----
+<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+  <a href="https://facebook.com/ashuvo25">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook">
+  </a>
+  <a href="https://instagram.com/shuvo_xyz">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://linkedin.com/in/asaduzzaman-shuvo">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</div>
 
-### 📫 **How to Reach Me**  
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/ashuvo25)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/shuvo_xyz)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/asaduzzaman-shuvo)  
 📧 Email: iqbalmdshuvo@gmail.com  
 
 ---
 
 ### 🛠 **Tech Stack**
-#### Languages  
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  
 
-#### Web Development  
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)  
+#### **Languages**
 
-#### Data & AI Tools  
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)  
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)  
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)  
+<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+</div>
+
+#### **Web Development**
+
+<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+</div>
+
+#### **Data & AI Tools**
+
+<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch">
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+</div>
 
 ---
 
 ### 🏆 **Competitive Programming Profiles**
-- **Codeforces**:  
-  [![Codeforces](https://img.shields.io/badge/Codeforces-%234566B5.svg?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/shuvo_r)  
 
-- **LeetCode**:  
-  [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/shuvo_r/)  
+<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+  <a href="https://codeforces.com/profile/shuvo_r">
+    <img src="https://img.shields.io/badge/Codeforces-%234566B5.svg?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces">
+  </a>
+  <a href="https://leetcode.com/shuvo_r/">
+    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode">
+  </a>
+</div>
 
----
+</div>
 
 ### 📊 **My GitHub Stats**
 
