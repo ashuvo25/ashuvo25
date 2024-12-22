@@ -17,7 +17,7 @@ Enjoy exploring my repositories! Feel free to connect and collaborate. 😊  <br
   </ul>
 
 - 📫 How to reach me vai mail: iqbalmdshuvo@gmail.com.
--  - codeforces userHandel: shuvo_r
+-  - codeforces userHandel: shuvo_o
 
 
 
