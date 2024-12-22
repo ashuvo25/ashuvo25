@@ -30,8 +30,8 @@ Enjoy exploring my repositories! Feel free to connect and collaborate. 😊  <br
  <h2>📚 Resources</h2>
   <h3>Competitive Programming</h3>
   <ul>
-    <li><a href="https://leetcode.com/shuvo_r/">LeetCode</a></li>
-    <li><a href="https://codeforces.com/profile/shuvo_r">Codeforces</a></li>
+    <li><a href="https://leetcode.com/shuvo_o/">LeetCode</a></li>
+    <li><a href="https://codeforces.com/profile/shuvo_o">Codeforces</a></li>
   </ul>
   <h4>🌟Current Focus Areas</h4>  
 - AI/ML Development: Enhancing skills in deep learning and exploring LLM applications. <br> 
