@@ -92,15 +92,17 @@ class AsaduzzamanShuvo:
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=ashuvo25&show_icons=true&count_private=true&hide_border=true&title_color=2575fc&icon_color=6a11cb&text_color=c9d1d9&bg_color=0d1117" alt="stats"/>
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=ashuvo25&hide_border=true&background=0d1117&stroke=2575fc&ring=6a11cb&fire=00c6ff&currStreakLabel=2575fc&sideLabels=c9d1d9&dates=8b949e" alt="streak"/>
+<!-- Streak -->
+![](https://streak-stats.demolab.com?user=ashuvo25&theme=tokyonight&hide_border=true)
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashuvo25&layout=compact&hide_border=true&langs_count=8&title_color=2575fc&text_color=c9d1d9&bg_color=0d1117" alt="top langs"/>
+<!-- Contribution graph -->
+![](https://github-readme-activity-graph.vercel.app/graph?username=ashuvo25&theme=tokyo-night&hide_border=true)
 
-<img src="https://github-profile-trophy.vercel.app/?username=ashuvo25&theme=algolia&no-frame=true&column=7&margin-w=8&margin-h=8" alt="trophies"/>
+<!-- Trophies -->
+![](https://github-profile-trophy.vercel.app/?username=ashuvo25&theme=tokyonight&no-frame=true)
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ashuvo25&bg_color=0d1117&color=2575fc&line=6a11cb&point=00c6ff&area=true&hide_border=true" alt="activity graph"/>
-
+<!-- Top languages -->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ashuvo25&layout=compact&theme=tokyonight)
 </div>
 
 <!-- ═══════════════════════════════════  COMPETITIVE PROGRAMMING  ═══════════════════════════════════ -->
