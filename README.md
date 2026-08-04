@@ -1,21 +1,21 @@
-<!-- ═══════════════════════════════════  HEADER  ═══════════════════════════════════ -->
-
+<!-- ═══════════════════════════════  HEADER  ═══════════════════════════════ -->
 <a href="https://ashuvo25.github.io/portfolio-asadshuvo/">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,50:2575fc,100:00c6ff&height=200&section=header&text=Md.%20Asaduzzaman%20Shuvo&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Researcher%20%20•%20%20AI%2FML%20Engineer%20%20•%20%20Competitive%20Programmer&descSize=18&descAlignY=58" alt="header"/>
 </a>
 
-<!-- ═══════════════════════════════════  TYPING  ═══════════════════════════════════ -->
-
+<!-- ═══════════════════════════════  TYPING  ═══════════════════════════════ -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2575FC&center=true&vCenter=true&width=650&lines=Coding+is+my+superpower.+%E2%9C%A8;Turning+ideas+into+intelligent+systems.;Exploring+AI%2C+ML+%26+Large+Language+Models.;Every+project+is+a+story+waiting+to+be+told.)](https://git.io/typing-svg)
+<a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2575FC&center=true&vCenter=true&width=650&lines=Coding+is+my+superpower.+%E2%9C%A8;Turning+ideas+into+intelligent+systems.;Exploring+AI%2C+ML+%26+Large+Language+Models.;Every+project+is+a+story+waiting+to+be+told." alt="Typing SVG"/>
+</a>
 
 <a href="https://ashuvo25.github.io/portfolio-asadshuvo/"><img src="https://img.shields.io/badge/Portfolio-2575FC?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 <a href="https://scholar.google.com/citations?user=pRglCCkAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"/></a>
 <a href="https://www.linkedin.com/in/asaduzzaman-shuvo/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:iqbalmdshuvo@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
-<img src="https://komarev.com/ghpvc/?username=ashuvo25&label=Profile%20Views&color=2575fc&style=flat" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=ashuvo25&label=Profile%20Views&color=2575fc&style=flat" alt="profile views"/>
 
 </div>
 
