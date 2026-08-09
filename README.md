@@ -5,7 +5,6 @@
 
 <!-- ═══════════════════════════════  TYPING  ═══════════════════════════════ -->
 <div align="center">
-
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2575FC&center=true&vCenter=true&width=650&lines=Coding+is+my+superpower.+%E2%9C%A8;Turning+ideas+into+intelligent+systems.;Exploring+AI%2C+ML+%26+Large+Language+Models.;Every+project+is+a+story+waiting+to+be+told." alt="Typing SVG"/>
 </a>
