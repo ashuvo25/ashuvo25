@@ -208,29 +208,21 @@ My research sits where **NLP meets Vision-Language Models**, with a focus on **l
 
 **🧑‍⚖️ Reviewing**
 
-<sub>
-
 - **NeurIPS 2026** — VLM4RWD *(nominated: DiffuLM)*
 - **EMNLP 2026** — GroundLM
 - **ECCV 2026** — Computer Vision for Ecology
 - **COLM 2026** — Efficient Reasoning · Context Beyond Window
-
-</sub>
 
 </td>
 <td width="50%" valign="top">
 
 **🏅 Awards**
 
-<sub>
-
 - ✈️ WiNLP @ EMNLP Travel Grant — `2026`
 - 🎖️ 50% Merit Scholarship, UIU — `2025`
 - 🥈 2nd Runner-up, SAD Lab · UIU Project Show — `2025`
 - 🥉 3rd Runner-up, Microprocessors Lab · UIU Project Show — `2025`
 - 🥇 1st Runner-up, DBMS · UIU Project Show — `2023`
-
-</sub>
 
 </td>
 </tr>
