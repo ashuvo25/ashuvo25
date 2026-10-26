@@ -4,8 +4,10 @@
 
 <div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=1800&pause=100000&color=64748B&center=true&vCenter=true&repeat=false&width=820&height=30&lines=%24+python+-c+%22import+shuvo%3B+shuvo.info()%22" alt="$ python -c import shuvo"/>
+
 <a href="https://ashuvo25.github.io/">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0b1020,45:3b0764,100:0e7490&text=Md.%20Asaduzzaman%20Shuvo&fontColor=f1f5f9&fontSize=50&fontAlignY=36&desc=NLP%20%C3%97%20Vision-Language%20Models%20%C2%B7%20Low-resource%20%26%20Trustworthy%20AI&descSize=18&descAlignY=58&animation=fadeIn" alt="Md. Asaduzzaman Shuvo"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=44&duration=2200&pause=100000&color=A78BFA&center=true&vCenter=true&repeat=false&width=820&height=70&lines=Md.+Asaduzzaman+Shuvo" alt="Md. Asaduzzaman Shuvo"/>
 </a>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2600&pause=1200&color=22D3EE&center=true&vCenter=true&width=860&height=44&lines=%3E+finding+where+LLMs+fail+%E2%80%94+and+why;%3E+low-resource+Bangla+LLMs+%C2%B7+culturally+grounded+reasoning;%3E+hallucination+in+large+vision-language+models;%3E+LoRA+%2F+QLoRA+%C2%B7+quantization+%C2%B7+reasoning+distillation;%3E+AI%2FML+Engineer+Intern+%40+Parallax+Labs" alt="typing"/>
@@ -454,4 +456,8 @@ youtube url ─ transcript ─ LLM ─┬─ quizzes
   <a href="mailto:iqbalmdshuvo@gmail.com"><img src="https://img.shields.io/badge/Email-0b1020?style=for-the-badge&logo=gmail&logoColor=f87171"/></a>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=130&color=0:0e7490,55:3b0764,100:0b1020" alt="footer"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2000&pause=100000&color=64748B&center=true&vCenter=true&repeat=false&width=820&height=30&lines=%24+exit+%23+thanks+for+stopping+by" alt="$ exit"/>
+  <br/>
+  <sub>✦ &nbsp;<a href="https://ashuvo25.github.io/">ashuvo25.github.io</a> &nbsp;·&nbsp; Dhaka, Bangladesh &nbsp;✦</sub>
+</p>
